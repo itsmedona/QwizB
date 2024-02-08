@@ -12,13 +12,13 @@ class QuestionModal {
 
 const List<QuestionModal> questions = [
   QuestionModal(
-    question: '1. What is the capital of France?',
-    correctAnswerIndex: 1,
+    question: '1.What is the largest ocean on Earth?',
+    correctAnswerIndex: 2,
     options: [
-      '(a) Madrid',
-      '(b) Paris',
-      '(c) Berlin',
-      '(d) Rome',
+      '(a) Atlantic Ocean',
+      '(b) Indian Ocean',
+      '(c) Pacific Ocean',
+      '(d) Southern Ocean',
     ],
   ),
   QuestionModal(
@@ -32,11 +32,11 @@ const List<QuestionModal> questions = [
     ],
   ),
   QuestionModal(
-    question: '3. What is the largest planet in our solar system?',
+    question: '3. Which planet is known as the "Red Planet"?',
     correctAnswerIndex: 1,
     options: [
       ' (a) Earth',
-      '(b) Jupiter',
+      '(b) Mars',
       '(c) Saturn',
       '(d) Venus',
     ],
@@ -52,23 +52,23 @@ const List<QuestionModal> questions = [
     ],
   ),
   QuestionModal(
-    question: '5. Who is the main character in the Harry Potter series?',
-    correctAnswerIndex: 2,
+    question: '5. What is the currency of the United Kingdom?',
+    correctAnswerIndex: 1,
     options: [
-      '(a) Hermione Granger',
-      '(b) Ron Weasley',
-      '(c) Harry Potter',
-      '(d) Neville Longbottom',
+      '(a) Euro',
+      '(b) Pound Sterling',
+      '(c) Dollar',
+      '(d) Yen',
     ],
   ),
   QuestionModal(
-    question: '6. What is the smallest planet in our solar system?',
-    correctAnswerIndex: 3,
+    question: '6. Who developed the theory of relativity?',
+    correctAnswerIndex: 2,
     options: [
-      '(a) Venus',
-      '(b) Mars',
-      '(c) Earth',
-      '(d) Mercury',
+      '(a) Isaac Newton',
+      '(b) Galileo Galilei',
+      '(c) Albert Einstein',
+      '(d) Stephen Hawking',
     ],
   ),
   QuestionModal(
