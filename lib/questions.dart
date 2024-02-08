@@ -94,12 +94,12 @@ const List<QuestionModal> questions = [
   QuestionModal(
     question:
         '9. What is the name of the famous painting by Leonardo da Vinci that depicts a woman?',
-    correctAnswerIndex: 3,
+    correctAnswerIndex: 2,
     options: [
       '(a) Starry Night',
       '(b) The Persistence of Memory',
-      '(c) The Last Supper',
-      '(d) Mona Lisa',
+      '(c) Mona Lisa',
+      '(d) The Last Supper',
     ],
   ),
   QuestionModal(
