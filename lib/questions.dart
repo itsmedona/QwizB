@@ -25,7 +25,7 @@ const List<QuestionModal> questions = [
     question: '2. In what continent is Brazil located?',
     correctAnswerIndex: 3,
     options: [
-      ' (a) Europe',
+      '(a) Europe',
       '(b) Asia',
       '(c) North America',
       '(d) South America',
@@ -35,7 +35,7 @@ const List<QuestionModal> questions = [
     question: '3. Which planet is known as the "Red Planet"?',
     correctAnswerIndex: 1,
     options: [
-      ' (a) Earth',
+      '(a) Earth',
       '(b) Mars',
       '(c) Saturn',
       '(d) Venus',
@@ -46,8 +46,8 @@ const List<QuestionModal> questions = [
     correctAnswerIndex: 0,
     options: [
       '(a) Nile',
-      ' (b) Amazon',
-      ' (c) Mississippi',
+      '(b) Amazon',
+      '(c) Mississippi',
       '(d) Danube',
     ],
   ),
