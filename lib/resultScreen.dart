@@ -58,10 +58,6 @@ class ResultScreen extends StatelessWidget {
                         '${(score / questions.length * 100).round()}%',
                         style: const TextStyle(fontSize: 30,color: Colors.white),
                     ),
-
-
-
-
                     ],
                 ),
                 ],

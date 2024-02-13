@@ -31,7 +31,7 @@ class _MySplashState extends State<MySplash> {
             child: Padding(
               padding: const EdgeInsets.all(8.0),
               child: Container(
-                child: Image.asset("assets/images/Qwizb.png"),
+                child: Image.asset("assets/images/quiz_icon.jpg"),
               ),
             ),
           ),
